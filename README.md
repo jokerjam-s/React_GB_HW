@@ -1,3 +1,3 @@
-# GB. React homeworks
+# ReactJS
 
 React lerning. The repository of homeworks and testworks.
