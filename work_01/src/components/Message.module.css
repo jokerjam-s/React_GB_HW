@@ -1,0 +1,8 @@
+.alert{
+    border: 2px solid black;
+    font-family: Arial, "Arial Black", sans-serif;
+    background-color: burlywood;
+    color: darkred;
+    padding: 10px;
+    margin: 5px;
+}

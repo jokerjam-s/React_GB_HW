@@ -1,3 +1,3 @@
-# Знакомство с ReactJS. Первые компоненты
+# ReactJS
 
 React lerning. The repository of homeworks and testworks.
