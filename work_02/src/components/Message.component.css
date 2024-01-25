@@ -1,0 +1,15 @@
+.message{
+    border: 1px solid midnightblue;
+    border-radius: 5px;
+    background-color: burlywood;
+    max-width: 600px;
+    color: darkred;
+    font-weight: bold;
+    margin: 5px;
+    padding: 10px;
+}
+
+.author{
+    text-align: right;
+    font-size: small;
+}
