@@ -1,0 +1,11 @@
+.form_flex{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    max-width: 600px;
+}
+
+input, button{
+    padding: 5px;
+    margin-bottom: 5px;
+}

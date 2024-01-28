@@ -5,16 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f0095dbd-d513-4c97-ab71-1627dcab0fe6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/work_02/src/components/FormMessage.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_02/src/components/Message.component.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/work_02/src/components/Message.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_02/src/components/ui/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_02/src/components/ui/FormMessage.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/work_02/src/components/ui/Input.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_02/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/work_02/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/work_02/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/work_02/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_02/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_02/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/work_02/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_02/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/work_02/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_02/src/components/FormMessage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/work_02/src/components/ui/FormMessage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_02/src/components/Message.component.css" beforeDir="false" afterPath="$PROJECT_DIR$/work_02/src/components/messages/Message.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/work_02/src/components/Message.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/work_02/src/components/messages/Message.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +22,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JSX File" />
+        <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,6 +64,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GB_HomeWork\React_GB_HW\work_02\src\components\ui" />
+      <recent name="D:\GB_HomeWork\React_GB_HW\work_02\src\components\messages" />
       <recent name="D:\GB_HomeWork\React_GB_HW\work_01\readme_img" />
     </key>
   </component>
@@ -79,6 +81,10 @@
       <workItem from="1705993959246" duration="5472000" />
       <workItem from="1706174328859" duration="3023000" />
       <workItem from="1706189344901" duration="3220000" />
+      <workItem from="1706254808016" duration="4831000" />
+      <workItem from="1706279326007" duration="2699000" />
+      <workItem from="1706282551764" duration="598000" />
+      <workItem from="1706443935964" duration="7441000" />
     </task>
     <servers />
   </component>

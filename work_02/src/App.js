@@ -1,8 +1,9 @@
 import logo from './logo.svg';
 import './App.css';
 import {useState} from "react";
-import message from "./components/Message";
-import Message from "./components/Message";
+import message from "./components/messages/Message";
+import Message from "./components/messages/Message";
+import FormMessage from "./components/ui/FormMessage";
 
 // {author: "Иванов", message: "сообщение от Иванова"},
 // {author: "Петров", message: "сообщение от петрова"},
@@ -15,11 +16,18 @@ import Message from "./components/Message";
 function App() {
     const [messageList, setMessageList] = useState([])
 
+    const [messageValue, setMessageValue] = useState("")
+    const [authorValue, setAuthorValue] = useState("")
+
+
 
     return (
-        messageList.map((message) => <Message>{message.message}</Message> )
+        <>
+            <FormMessage author={authorValue} message={messageValue}/>
+            {messageList.length > 0 && messageList.map((message) => <Message>{message.message}</Message>) }
+        </>
+    )
 
-    );
 }
 
 export default App;

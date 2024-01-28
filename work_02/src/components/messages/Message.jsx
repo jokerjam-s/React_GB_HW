@@ -1,4 +1,4 @@
-import style from './Message.component.css'
+import style from './Message.module.css'
 
 function Message(props){
     return(
